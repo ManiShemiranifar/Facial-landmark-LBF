@@ -35,3 +35,6 @@ def download_lbf():
 
     else:
         print("You already have LBFmode file")
+        
+def lbfmodel_path():
+    return lbfmodel
